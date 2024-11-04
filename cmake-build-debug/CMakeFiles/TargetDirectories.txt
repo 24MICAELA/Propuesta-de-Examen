@@ -1,0 +1,3 @@
+C:/Users/Micae/CLionProjects/PPropuestaExamen/cmake-build-debug/CMakeFiles/PPropuestaExamen.dir
+C:/Users/Micae/CLionProjects/PPropuestaExamen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Micae/CLionProjects/PPropuestaExamen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
